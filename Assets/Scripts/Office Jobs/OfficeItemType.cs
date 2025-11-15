@@ -33,5 +33,23 @@ public class OfficeItemType : MonoBehaviour
         Judge
     }
     public Type type;
-    public SpatialInteractable interactable;
+    [HideInInspector]public SpatialInteractable interactable;
+
+    [Header("Initial Transform")]
+    private Vector3 initialPosition;
+    private Quaternion initialRotation;
+
+    private void Start()
+    {
+        initialPosition = transform.position;
+        initialRotation = transform.rotation;
+
+        interactable = GetComponent<SpatialInteractable>();
+    }
+
+    public void ResetTransform()
+    {
+        transform.position = initialPosition;
+        transform.rotation = initialRotation;
+    }
 }
