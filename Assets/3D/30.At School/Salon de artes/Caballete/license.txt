@@ -1,0 +1,11 @@
+Model Information:
+* title:	Easel
+* source:	https://sketchfab.com/3d-models/easel-e0e241ce145240ecb142d1a2cc13b425
+* author:	1CLICK DESIGN (https://sketchfab.com/jplucero0824)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Easel" (https://sketchfab.com/3d-models/easel-e0e241ce145240ecb142d1a2cc13b425) by 1CLICK DESIGN (https://sketchfab.com/jplucero0824) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

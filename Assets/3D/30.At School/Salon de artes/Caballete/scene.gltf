@@ -1,0 +1,454 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1640,
+      "max": [
+        0.4807185232639313,
+        0.3131548762321472,
+        2.0031723976135254
+      ],
+      "min": [
+        -0.4807444214820862,
+        -0.4614068865776062,
+        -0.001074066385626793
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 19680,
+      "componentType": 5126,
+      "count": 1640,
+      "max": [
+        1.0,
+        0.9999122619628906,
+        0.999828577041626
+      ],
+      "min": [
+        -1.0,
+        -0.9999125003814697,
+        -0.9999918341636658
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1640,
+      "max": [
+        0.9999959468841553,
+        0.9999973773956299,
+        0.9997463822364807,
+        1.0
+      ],
+      "min": [
+        -0.9999992251396179,
+        -0.999828577041626,
+        -0.9997319579124451,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1640,
+      "max": [
+        0.9918997287750244,
+        0.9500768184661865
+      ],
+      "min": [
+        0.010792076587677002,
+        0.03732860088348389
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 13120,
+      "componentType": 5126,
+      "count": 1640,
+      "max": [
+        0.9918997287750244,
+        0.9500768184661865
+      ],
+      "min": [
+        0.010792076587677002,
+        0.03732860088348389
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 26240,
+      "componentType": 5126,
+      "count": 1640,
+      "max": [
+        0.9918997287750244,
+        0.9500768184661865
+      ],
+      "min": [
+        0.010792076587677002,
+        0.03732860088348389
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 39360,
+      "componentType": 5126,
+      "count": 1640,
+      "max": [
+        0.9918997287750244,
+        0.9500768184661865
+      ],
+      "min": [
+        0.010792076587677002,
+        0.03732860088348389
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 52480,
+      "componentType": 5126,
+      "count": 1640,
+      "max": [
+        0.9918997287750244,
+        0.9500768184661865
+      ],
+      "min": [
+        0.010792076587677002,
+        0.03732860088348389
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 4872,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "1CLICK DESIGN (https://sketchfab.com/jplucero0824)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/easel-e0e241ce145240ecb142d1a2cc13b425",
+      "title": "Easel"
+    },
+    "generator": "Sketchfab-14.90.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 19488,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 65600,
+      "byteOffset": 19488,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 39360,
+      "byteOffset": 85088,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 26240,
+      "byteOffset": 124448,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 150688,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Easel1_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Easel1_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Easel1_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Easel1",
+      "normalTexture": {
+        "index": 2,
+        "scale": 0.53
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4,
+            "TEXCOORD_2": 5,
+            "TEXCOORD_3": 6,
+            "TEXCOORD_4": 7
+          },
+          "indices": 8,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -0.14848347008228302,
+        0.0,
+        -0.167235866189003,
+        1.0
+      ],
+      "name": "easel____easel_with_painting_1"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        -0.0,
+        0.0,
+        -0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model_2"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "352f3e1c204b452cb0a660c9c4f772d3.fbx_3"
+    },
+    {
+      "children": [
+        7
+      ],
+      "name": "RootNode_4"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        100.0,
+        1.4210854561253932e-12,
+        -1.4210852473379244e-12,
+        0.0,
+        -1.421084790920443e-12,
+        -1.685873712070902e-05,
+        -99.99998474120952,
+        0.0,
+        -1.4210854788619667e-12,
+        99.99998474120952,
+        -1.685873712070902e-05,
+        0.0,
+        68.54320526123047,
+        1.5258786334015895e-05,
+        -106.04878997802734,
+        1.0
+      ],
+      "name": "Easel3_5"
+    },
+    {
+      "children": [
+        9
+      ],
+      "matrix": [
+        1.0,
+        -7.105437521996066e-15,
+        -7.105440910128461e-15,
+        0.0,
+        7.105432863308798e-15,
+        0.9999993443489075,
+        8.526512659711056e-14,
+        0.0,
+        7.10543625143776e-15,
+        -8.526512659711061e-14,
+        0.9999993443489075,
+        0.0,
+        -0.03748096525669098,
+        0.16174323856830597,
+        3.315269623271888e-07,
+        1.0
+      ],
+      "name": "Easel3_Easel1_0_6"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_9"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9729,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
