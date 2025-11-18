@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 1
   sku: g01kiwnagzyfhd4o3y26qh44
-  packageName: At School - IEX
+  packageName: Epic School - IEX
   thumbnail: {fileID: 2800000, guid: 3dbf2a2c9290fbf478fc93be4d35818b, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
