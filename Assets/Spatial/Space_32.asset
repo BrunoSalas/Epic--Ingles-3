@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5621e5ad1b9084f8bb66de8251cfd5a3, type: 3}
+  m_Name: Space_32
+  m_EditorClassIdentifier: 
+  version: 1
+  sku: yrw1683b6xhjmjf04qk3jktw
+  packageName: The Safe Haven - Caribbean
+  thumbnail: {fileID: 2800000, guid: 68ccda8ef922a2e4ba0932cad0229235, type: 3}
+  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
+    type: 2}
+  worldID: j649n7oa747vr2qvh2ay8
+  scene: {fileID: 102900000, guid: b4b2779b42987f242b138f1ac2d252b0, type: 3}
+  csharpAssembly: {fileID: 5897886265953266890, guid: 9a0abec27cd78904daecc30bb776f0ff,
+    type: 3}
+  embeddedPackageAssets: []
+  networkPrefabs: []
+  settings:
+    serverInstancingEnabled: 1
+    serverCapacitySetting: 0
+    serverInstanceCapacity: 16
