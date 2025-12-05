@@ -3,128 +3,40 @@
   "WorkspaceRootPath": "E:\\Proyectos\\Epic--Ingles-2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|e:\\proyectos\\epic--ingles-2\\assets\\scripts\\activateboolforanim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\activateboolforanim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|e:\\proyectos\\epic--ingles-2\\assets\\scripts\\starcode\\modulemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\starcode\\modulemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|e:\\proyectos\\epic--ingles-2\\assets\\scripts\\completetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\completetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\starcode\\pickmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\starcode\\pickmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\starcode\\itemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\starcode\\itemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\maze of language\\managernpcriddles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\maze of language\\managernpcriddles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|e:\\proyectos\\epic--ingles-2\\assets\\scripts\\maze of language\\npcriddles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\maze of language\\npcriddles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Restouring the voice\\ManagerTaskFragments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Restouring the voice\\ManagerTaskFragments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\maze of language\\activatefinalprefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\maze of language\\activatefinalprefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\restouring the voice\\zona 3\\placebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\restouring the voice\\zona 3\\placebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\restouring the voice\\zona 1\\choosefragment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\restouring the voice\\zona 1\\choosefragment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\restouring the voice\\zona 1\\pickfragment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|e:\\proyectos\\epic--ingles-2\\assets\\scripts\\restouring the voice\\zona 1\\pickfragment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\restouring the voice\\zona 1\\pickfragment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\orderedsequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\orderedsequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\starcode\\managerope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\starcode\\managerope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\office jobs\\pickofficetirem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\office jobs\\pickofficetirem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\ropeverlet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\ropeverlet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Restouring the voice\\FragmentType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Restouring the voice\\FragmentType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\completetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\completetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\maze of language\\chooseprefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\maze of language\\chooseprefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\starcode\\correcttext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\starcode\\correcttext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Restouring the voice\\PoemManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Restouring the voice\\PoemManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\maze of language\\pickprefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\maze of language\\pickprefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\choose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\choose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\maze of language\\prefixtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\maze of language\\prefixtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\at school\\signselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\at school\\signselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\office jobs\\activatefinaljobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\office jobs\\activatefinaljobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\office jobs\\chooseofficejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\office jobs\\chooseofficejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\office jobs\\officeitemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\office jobs\\officeitemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\huertoespacial\\seeds\\typeseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\huertoespacial\\seeds\\typeseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\huertoespacial\\productsinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\huertoespacial\\productsinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\huertoespacial\\selectseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\huertoespacial\\selectseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\huertoespacial\\seeds\\verdure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\huertoespacial\\seeds\\verdure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\huertoespacial\\recipemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\huertoespacial\\recipemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\huertoespacial\\seedsinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\huertoespacial\\seedsinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\huertoespacial\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\huertoespacial\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Restouring the voice\\ChooseFragment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Restouring the voice\\ChooseFragment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|E:\\Proyectos\\Epic--Ingles-2\\assets\\scripts\\starcode\\checkcorrecttext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7617F15-CBB1-4613-1DA8-327B6E831BA4}|NewAssembly.csproj|solutionrelative:assets\\scripts\\starcode\\checkcorrecttext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -133,387 +45,124 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 242,
+          "DockedWidth": 323,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ActivateBoolForAnim.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\ActivateBoolForAnim.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ActivateBoolForAnim.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\ActivateBoolForAnim.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ActivateBoolForAnim.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Title": "ModuleManager.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\StarCode\\ModuleManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StarCode\\ModuleManager.cs",
+              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\StarCode\\ModuleManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StarCode\\ModuleManager.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAQwHcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T00:49:29.286Z",
+              "WhenOpened": "2025-12-05T02:18:17.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemType.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\StarCode\\ItemType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StarCode\\ItemType.cs",
+              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\StarCode\\ItemType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StarCode\\ItemType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T02:10:51.669Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PickModule.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\StarCode\\PickModule.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StarCode\\PickModule.cs",
+              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\StarCode\\PickModule.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StarCode\\PickModule.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAawCsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T02:06:11.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageRope.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\StarCode\\ManageRope.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StarCode\\ManageRope.cs",
+              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\StarCode\\ManageRope.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StarCode\\ManageRope.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T00:30:21.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CheckCorrectText.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\StarCode\\CheckCorrectText.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StarCode\\CheckCorrectText.cs",
+              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\StarCode\\CheckCorrectText.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StarCode\\CheckCorrectText.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T23:28:06.261Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 161,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RopeVerlet.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\RopeVerlet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RopeVerlet.cs",
+              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\RopeVerlet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RopeVerlet.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAgwDABAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T00:36:28.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CompleteTask.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\CompleteTask.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CompleteTask.cs",
               "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\CompleteTask.cs",
               "RelativeToolTip": "Assets\\Scripts\\CompleteTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T00:14:01.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T00:14:01.928Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ManagerNpcRiddles.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Maze of Language\\ManagerNpcRiddles.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Maze of Language\\ManagerNpcRiddles.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Maze of Language\\ManagerNpcRiddles.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Maze of Language\\ManagerNpcRiddles.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAwwF4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T06:19:55.86Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FragmentType.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Restouring the voice\\FragmentType.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Restouring the voice\\FragmentType.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Restouring the voice\\FragmentType.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Restouring the voice\\FragmentType.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T00:29:31.082Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ChooseFragment.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Restouring the voice\\ChooseFragment.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Restouring the voice\\ChooseFragment.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Restouring the voice\\ChooseFragment.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Restouring the voice\\ChooseFragment.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T00:33:53.981Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PlaceBook.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Restouring the voice\\Zona 3\\PlaceBook.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Restouring the voice\\Zona 3\\PlaceBook.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Restouring the voice\\Zona 3\\PlaceBook.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Restouring the voice\\Zona 3\\PlaceBook.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T04:08:44.268Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Score.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Score.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Score.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Score.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Score.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAA1wDcAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T03:09:54.509Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ChooseFragment.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Restouring the voice\\Zona 1\\ChooseFragment.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Restouring the voice\\Zona 1\\ChooseFragment.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Restouring the voice\\Zona 1\\ChooseFragment.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Restouring the voice\\Zona 1\\ChooseFragment.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD4AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T02:37:09.383Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ActivateFinalPrefix.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Maze of Language\\ActivateFinalPrefix.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Maze of Language\\ActivateFinalPrefix.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Maze of Language\\ActivateFinalPrefix.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Maze of Language\\ActivateFinalPrefix.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T05:14:31.301Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "OrderedSequence.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\OrderedSequence.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\OrderedSequence.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\OrderedSequence.cs",
-              "RelativeToolTip": "Assets\\Scripts\\OrderedSequence.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAwwGcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T03:01:22.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ChoosePrefix.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Maze of Language\\ChoosePrefix.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Maze of Language\\ChoosePrefix.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Maze of Language\\ChoosePrefix.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Maze of Language\\ChoosePrefix.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T05:09:48.106Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PickOfficeTirem.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Office Jobs\\PickOfficeTirem.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Office Jobs\\PickOfficeTirem.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Office Jobs\\PickOfficeTirem.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Office Jobs\\PickOfficeTirem.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAwwB0AAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T18:30:46.478Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "PrefixType.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Maze of Language\\PrefixType.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Maze of Language\\PrefixType.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Maze of Language\\PrefixType.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Maze of Language\\PrefixType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T05:08:23.122Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PickPrefix.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Maze of Language\\PickPrefix.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Maze of Language\\PickPrefix.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Maze of Language\\PickPrefix.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Maze of Language\\PickPrefix.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAowGIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T05:06:56.692Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Choose.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Choose.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Choose.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Choose.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Choose.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T05:53:56.103Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "SignSelector.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\At School\\SignSelector.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\At School\\SignSelector.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\At School\\SignSelector.cs",
-              "RelativeToolTip": "Assets\\Scripts\\At School\\SignSelector.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T23:24:09.103Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ActivateFinalJobs.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Office Jobs\\ActivateFinalJobs.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Office Jobs\\ActivateFinalJobs.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Office Jobs\\ActivateFinalJobs.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Office Jobs\\ActivateFinalJobs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T18:45:22.733Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ChooseOfficeJob.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Office Jobs\\ChooseOfficeJob.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Office Jobs\\ChooseOfficeJob.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Office Jobs\\ChooseOfficeJob.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Office Jobs\\ChooseOfficeJob.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBwAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T18:43:24.168Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "OfficeItemType.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Office Jobs\\OfficeItemType.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Office Jobs\\OfficeItemType.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Office Jobs\\OfficeItemType.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Office Jobs\\OfficeItemType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T01:41:02.947Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Box.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Box.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Box.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Box.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Box.cs",
-              "ViewState": "AgIAAIsAAAAAAAAAAMBcwJAAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T23:20:38.803Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "TypeSeed.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\Seeds\\TypeSeed.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\HuertoEspacial\\Seeds\\TypeSeed.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\Seeds\\TypeSeed.cs",
-              "RelativeToolTip": "Assets\\Scripts\\HuertoEspacial\\Seeds\\TypeSeed.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAwwFAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T21:33:26.063Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ProductsInventory.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\ProductsInventory.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\HuertoEspacial\\ProductsInventory.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\ProductsInventory.cs",
-              "RelativeToolTip": "Assets\\Scripts\\HuertoEspacial\\ProductsInventory.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAwwC8AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T20:50:13.493Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "SelectSeed.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\SelectSeed.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\HuertoEspacial\\SelectSeed.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\SelectSeed.cs",
-              "RelativeToolTip": "Assets\\Scripts\\HuertoEspacial\\SelectSeed.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T20:17:12.582Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Verdure.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\Seeds\\Verdure.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\HuertoEspacial\\Seeds\\Verdure.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\Seeds\\Verdure.cs",
-              "RelativeToolTip": "Assets\\Scripts\\HuertoEspacial\\Seeds\\Verdure.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T20:50:01.418Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 158,
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PoemManager.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Restouring the voice\\PoemManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Restouring the voice\\PoemManager.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Restouring the voice\\PoemManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Restouring the voice\\PoemManager.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAswLQAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T22:13:02.732Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "PickFragment.cs",
               "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Restouring the voice\\Zona 1\\PickFragment.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Restouring the voice\\Zona 1\\PickFragment.cs",
               "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Restouring the voice\\Zona 1\\PickFragment.cs",
               "RelativeToolTip": "Assets\\Scripts\\Restouring the voice\\Zona 1\\PickFragment.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCgAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T02:31:42.489Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NpcRiddles.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Maze of Language\\NpcRiddles.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Maze of Language\\NpcRiddles.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Maze of Language\\NpcRiddles.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Maze of Language\\NpcRiddles.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T06:19:39.733Z",
+              "WhenOpened": "2025-12-05T02:06:46.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ManagerTaskFragments.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Restouring the voice\\ManagerTaskFragments.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Restouring the voice\\ManagerTaskFragments.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\Restouring the voice\\ManagerTaskFragments.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Restouring the voice\\ManagerTaskFragments.cs",
+              "DocumentIndex": 7,
+              "Title": "CorrectText.cs",
+              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\StarCode\\CorrectText.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StarCode\\CorrectText.cs",
+              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\StarCode\\CorrectText.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StarCode\\CorrectText.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T00:44:49.325Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "RecipeManager.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\RecipeManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\HuertoEspacial\\RecipeManager.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\RecipeManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\HuertoEspacial\\RecipeManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T20:42:22.472Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "SeedsInventory.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\SeedsInventory.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\HuertoEspacial\\SeedsInventory.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\SeedsInventory.cs",
-              "RelativeToolTip": "Assets\\Scripts\\HuertoEspacial\\SeedsInventory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T20:17:15.602Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Zone.cs",
-              "DocumentMoniker": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\Zone.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\HuertoEspacial\\Zone.cs",
-              "ToolTip": "E:\\Proyectos\\Epic--Ingles-2\\Assets\\Scripts\\HuertoEspacial\\Zone.cs",
-              "RelativeToolTip": "Assets\\Scripts\\HuertoEspacial\\Zone.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T20:41:02.144Z"
+              "WhenOpened": "2025-12-04T23:28:03.254Z"
             }
           ]
         }
