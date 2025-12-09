@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\assets\\scripts\\fivesenses\\finalsenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|solutionrelative:assets\\scripts\\fivesenses\\finalsenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|c:\\users\\salas\\documents\\repositorios\\epic--ingles-3\\assets\\scripts\\chronotown\\placetown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|solutionrelative:assets\\scripts\\chronotown\\placetown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|c:\\users\\salas\\documents\\repositorios\\epic--ingles-3\\assets\\scripts\\fivesenses\\typefive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\assets\\scripts\\happymemories\\zona 5\\pickplaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|solutionrelative:assets\\scripts\\happymemories\\zona 5\\pickplaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|c:\\users\\salas\\documents\\repositorios\\epic--ingles-3\\assets\\scripts\\chronotown\\typetown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|solutionrelative:assets\\scripts\\chronotown\\typetown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\assets\\scripts\\fivesenses\\typefive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|solutionrelative:assets\\scripts\\fivesenses\\typefive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\assets\\scripts\\chronotown\\picktown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|solutionrelative:assets\\scripts\\chronotown\\picktown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\assets\\scripts\\happymemories\\zona 5\\placepalabra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|solutionrelative:assets\\scripts\\happymemories\\zona 5\\placepalabra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\assets\\scripts\\happymemories\\zona 4\\pickfogata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|solutionrelative:assets\\scripts\\happymemories\\zona 4\\pickfogata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\assets\\scripts\\fivesenses\\finalsenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|solutionrelative:assets\\scripts\\fivesenses\\finalsenses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|c:\\users\\salas\\documents\\repositorios\\epic--ingles-3\\assets\\scripts\\fivesenses\\placefive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,18 +51,6 @@
       "RelativeMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|solutionrelative:assets\\scripts\\happymemories\\zona 4\\placefogata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\assets\\scripts\\happymemories\\zona 5\\placepalabra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|solutionrelative:assets\\scripts\\happymemories\\zona 5\\placepalabra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\assets\\scripts\\happymemories\\zona 5\\pickplaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|solutionrelative:assets\\scripts\\happymemories\\zona 5\\pickplaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\assets\\scripts\\happymemories\\zona 4\\pickfogata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|solutionrelative:assets\\scripts\\happymemories\\zona 4\\pickfogata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\assets\\scripts\\maze of language\\npcriddles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83729115-D4F9-9331-FE36-E6508E6F3D2B}|NewAssembly.csproj|solutionrelative:assets\\scripts\\maze of language\\npcriddles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -55,6 +67,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PlaceTown.cs",
+              "DocumentMoniker": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\ChronoTown\\PlaceTown.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChronoTown\\PlaceTown.cs",
+              "ToolTip": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\ChronoTown\\PlaceTown.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChronoTown\\PlaceTown.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:07:55.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TypeTown.cs",
+              "DocumentMoniker": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\ChronoTown\\TypeTown.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChronoTown\\TypeTown.cs",
+              "ToolTip": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\ChronoTown\\TypeTown.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChronoTown\\TypeTown.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:07:40.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PickTown.cs",
+              "DocumentMoniker": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\ChronoTown\\PickTown.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChronoTown\\PickTown.cs",
+              "ToolTip": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\ChronoTown\\PickTown.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChronoTown\\PickTown.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvzYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:02:35.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "FinalSenses.cs",
               "DocumentMoniker": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\FiveSenses\\FinalSenses.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FiveSenses\\FinalSenses.cs",
@@ -62,25 +113,24 @@
               "RelativeToolTip": "Assets\\Scripts\\FiveSenses\\FinalSenses.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T22:23:26.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T22:23:26.625Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TypeFive.cs",
               "DocumentMoniker": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\FiveSenses\\TypeFive.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FiveSenses\\TypeFive.cs",
               "ToolTip": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\FiveSenses\\TypeFive.cs",
               "RelativeToolTip": "Assets\\Scripts\\FiveSenses\\TypeFive.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-30T23:30:00.541Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "PickFive.cs",
               "DocumentMoniker": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\FiveSenses\\PickFive.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FiveSenses\\PickFive.cs",
@@ -92,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "FinalPlaya.cs",
               "DocumentMoniker": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\HappyMemories\\Zona 5\\FinalPlaya.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HappyMemories\\Zona 5\\FinalPlaya.cs",
@@ -104,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "PlaceFogata.cs",
               "DocumentMoniker": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\HappyMemories\\Zona 4\\PlaceFogata.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HappyMemories\\Zona 4\\PlaceFogata.cs",
@@ -118,48 +168,50 @@
         },
         {
           "DockedWidth": 213,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "PlaceFive.cs",
               "DocumentMoniker": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\FiveSenses\\PlaceFive.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FiveSenses\\PlaceFive.cs",
               "ToolTip": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\FiveSenses\\PlaceFive.cs",
               "RelativeToolTip": "Assets\\Scripts\\FiveSenses\\PlaceFive.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAwwHAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAWwEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-30T23:30:13.208Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "PlacePalabra.cs",
               "DocumentMoniker": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\HappyMemories\\Zona 5\\PlacePalabra.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HappyMemories\\Zona 5\\PlacePalabra.cs",
               "ToolTip": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\HappyMemories\\Zona 5\\PlacePalabra.cs",
               "RelativeToolTip": "Assets\\Scripts\\HappyMemories\\Zona 5\\PlacePalabra.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T15:23:22.527Z"
+              "WhenOpened": "2025-11-26T15:23:22.527Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "PickPlaya.cs",
               "DocumentMoniker": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\HappyMemories\\Zona 5\\PickPlaya.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HappyMemories\\Zona 5\\PickPlaya.cs",
               "ToolTip": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\HappyMemories\\Zona 5\\PickPlaya.cs",
               "RelativeToolTip": "Assets\\Scripts\\HappyMemories\\Zona 5\\PickPlaya.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAArwC0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T15:14:48.724Z"
+              "WhenOpened": "2025-11-26T15:14:48.724Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "NpcRiddles.cs",
               "DocumentMoniker": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\Maze of Language\\NpcRiddles.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Maze of Language\\NpcRiddles.cs",
@@ -171,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "PickFogata.cs",
               "DocumentMoniker": "C:\\Users\\salas\\Documents\\Repositorios\\Epic--Ingles-3\\Assets\\Scripts\\HappyMemories\\Zona 4\\PickFogata.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HappyMemories\\Zona 4\\PickFogata.cs",
@@ -179,7 +231,8 @@
               "RelativeToolTip": "Assets\\Scripts\\HappyMemories\\Zona 4\\PickFogata.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T04:24:03.842Z"
+              "WhenOpened": "2025-11-26T04:24:03.842Z",
+              "EditorCaption": ""
             }
           ]
         }
