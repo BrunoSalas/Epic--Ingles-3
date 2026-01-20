@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5621e5ad1b9084f8bb66de8251cfd5a3, type: 3}
+  m_Name: Space_101
+  m_EditorClassIdentifier: 
+  version: 1
+  sku: ahujmopys3lo5qqjgf55w8zk
+  packageName: Los sentidos del cuerpo humano - Central
+  thumbnail: {fileID: 2800000, guid: 1ab3fe608e0805a45afdcff18251f750, type: 3}
+  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
+    type: 2}
+  worldID: zft6c7vjxh6lt6ceufokb
+  scene: {fileID: 102900000, guid: af8961637314989449c608038da2d490, type: 3}
+  csharpAssembly: {fileID: 5897886265953266890, guid: 9a0abec27cd78904daecc30bb776f0ff,
+    type: 3}
+  embeddedPackageAssets: []
+  networkPrefabs: []
+  settings:
+    serverInstancingEnabled: 1
+    serverCapacitySetting: 0
+    serverInstanceCapacity: 16
