@@ -10,16 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5621e5ad1b9084f8bb66de8251cfd5a3, type: 3}
-  m_Name: Space_12
+  m_Name: Space_112
   m_EditorClassIdentifier: 
   version: 1
-  sku: bzotw7dek3tisdt04n80424i
+  sku: yac7fatcmi6tvb37z8suw6jq
   packageName: Starcode Station - Ambedu
-  thumbnail: {fileID: 2800000, guid: 381db270b6c4eba4780ebc194c9fa1b3, type: 3}
+  thumbnail: {fileID: 2800000, guid: 1ab3fe608e0805a45afdcff18251f750, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
-  worldID: j649n7oa747vr2qvh2ay8
-  scene: {fileID: 102900000, guid: 5afbcf72a6026794985409c281e080f9, type: 3}
+  worldID: e1y6ss079f9j6f33nayvt
+  scene: {fileID: 102900000, guid: 51cff8aa733ecce4cbe5df840c49a5ea, type: 3}
   csharpAssembly: {fileID: 5897886265953266890, guid: 9a0abec27cd78904daecc30bb776f0ff,
     type: 3}
   embeddedPackageAssets: []
