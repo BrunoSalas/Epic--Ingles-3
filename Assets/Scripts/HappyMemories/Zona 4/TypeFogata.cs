@@ -9,7 +9,7 @@ public class TypeFogata : MonoBehaviour
     {
         Malvavisco,
         Libros,
-        Caña
+        Canha
     }
 
     public Type type;
