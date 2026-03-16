@@ -9,10 +9,10 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{83729115-D4F9-9331-FE36-E6508E6F3D2B}</ProjectGuid>
+    <ProjectGuid>{7BE47848-3366-4597-2C9C-EEF729B6F538}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <AssemblyName>NewAssembly</AssemblyName>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <BaseDirectory>.</BaseDirectory>
@@ -136,7 +136,82 @@
     <Compile Include="Assets\Scripts\Restouring the voice\Zona 3\BookType.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Scripts\NewAssembly.asmdef" />
+    <None Include="Assets\3D\StarCode\assets\Centro de mando\Textures\coleccion-de-elementos-de-infografia-futuristas\License premium.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
+    <None Include="Assets\3D\30.At School\Salon de artes\Caballete\license.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets\3D\StarCode\assets\Centro de mando\Textures\set-de-elementos-infograficos-y-holograficos-de-estilo-futurista\License free.txt" />
+    <None Include="Assets\3D\StarCode\assets\Centro de mando\Textures\set-de-elementos-futuristicos-de-infografia-de-estilo-holografico (4)\License free.txt" />
+    <None Include="Assets\3D\StarCode\assets\Centro de mando\Textures\coleccion-de-elementos-de-infografia-futuristas\License free.txt" />
+    <None Include="Assets\Examples\Shaders\FastSubsurfaceScattering.hlsl" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\3D\StarCode\assets\Laboratorio Beta\Mesa holografica\license.txt" />
+    <None Include="Assets\3D\StarCode\assets\Laboratorio Beta\Pantalla\license.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
+    <None Include="Assets\3D\FiveSenses\Salon de clases\Items\Pintarron blanco\license.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
+    <None Include="Assets\3D\StarCode\assets\Centro de mando\Textures\set-de-elementos-infograficos-y-holograficos-de-estilo-futurista\License premium.txt" />
+    <None Include="Assets\3D\StarCode\assets\Centro de mando\Textures\set-de-elementos-futuristicos-de-infografia-de-estilo-holografico (1)\License free.txt" />
+    <None Include="Assets\3D\FiveSenses\Salon de clases\Items\Engrapadora\license.txt" />
+    <None Include="Assets\3D\StarCode\assets\Centro de mando\Textures\set-de-elementos-futuristicos-de-infografia-de-estilo-holografico (4)\License premium.txt" />
+    <None Include="Assets\3D\FiveSenses\Salon de clases\Items\Lonchera\license.txt" />
+    <None Include="Assets\3D\30.At School\Area central\Puerta\license.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+    <None Include="Assets\3D\StarCode\assets\Laboratorio Beta\tanque de oxigeno\license.txt" />
+    <None Include="Assets\3D\StarCode\assets\Centro de mando\Textures\set-de-elementos-futuristicos-de-infografia-de-estilo-holografico (3)\Fonts.txt" />
+    <None Include="Assets\3D\StarCode\assets\Centro de mando\Textures\coleccion-plana-elementos-infografia-degradados\Fonts.txt" />
+    <None Include="Assets\3D\FiveSenses\Salon de clases\Items\Planta Verde\license.txt" />
+    <None Include="Assets\3D\FiveSenses\Salon de clases\Items\Libro rojo\license.txt" />
+    <None Include="Assets\3D\FiveSenses\Salon de clases\Items\Lapiz Amarill0\license.txt" />
+    <None Include="Assets\3D\30.At School\Cancha de futbol\license.txt" />
+    <None Include="Assets\3D\StarCode\assets\Centro de mando\Textures\set-de-elementos-futuristicos-de-infografia-de-estilo-holografico (4)\Fonts.txt" />
+    <None Include="Assets\3D\StarCode\assets\Centro de mando\Textures\coleccion-plana-elementos-infografia-degradados\License free.txt" />
+    <None Include="Assets\3D\Restore Voice\Pilar\license.txt" />
+    <None Include="Assets\3D\StarCode\assets\Centro de mando\Textures\set-de-elementos-futuristicos-de-infografia-de-estilo-holografico (2)\License premium.txt" />
+    <None Include="Assets\3D\StarCode\assets\Centro de mando\Textures\set-de-elementos-futuristicos-de-infografia-de-estilo-holografico (3)\License premium.txt" />
+    <None Include="Assets\Examples\Shaders\GetMainLight.hlsl" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+    <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
+    <None Include="Assets\3D\30.At School\Cancha de futbol\Balon de soccer\license.txt" />
+    <None Include="Assets\3D\Restore Voice\Trofeo con pedestal\Pedestal\license.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
+    <None Include="Assets\3D\30.At School\Cancha de futbol\Doble puerta\license.txt" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+    <None Include="Assets\3D\FiveSenses\Salon de clases\Items\Sacapuntas verde\license.txt" />
+    <None Include="Assets\3D\StarCode\assets\Centro de mando\Textures\set-de-elementos-futuristicos-de-infografia-de-estilo-holografico\Fonts.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
+    <None Include="Assets\3D\FiveSenses\Salon de clases\Items\Cartuchera negra\license.txt" />
+    <None Include="Assets\3D\StarCode\assets\Centro de mando\Textures\coleccion-de-elementos-de-infografia-futuristas\Fonts.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\3D\FiveSenses\Salon de clases\Items\Escritorio gris\license.txt" />
+    <None Include="Assets\Spatial\Generated\CreatorToolkitCustomScripts.dll.txt" />
+    <None Include="Assets\3D\StarCode\assets\Centro de mando\Textures\set-de-elementos-futuristicos-de-infografia-de-estilo-holografico (1)\Fonts.txt" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\3D\30.At School\Area central\Robot\license.txt" />
+    <None Include="Assets\3D\StarCode\assets\Centro de mando\Textures\set-de-elementos-futuristicos-de-infografia-de-estilo-holografico\License premium.txt" />
+    <None Include="Assets\3D\StarCode\assets\Centro de mando\Textures\set-de-elementos-futuristicos-de-infografia-de-estilo-holografico (1)\License premium.txt" />
+    <None Include="Assets\3D\StarCode\assets\Centro de mando\Textures\set-de-elementos-futuristicos-de-infografia-de-estilo-holografico (2)\License free.txt" />
+    <None Include="Assets\3D\Restore Voice\Trofeo con pedestal\Pedestal 1\license.txt" />
+    <None Include="Assets\3D\StarCode\assets\Centro de mando\Textures\set-de-elementos-futuristicos-de-infografia-de-estilo-holografico\License free.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+    <None Include="Assets\3D\Restore Voice\Trofeo con pedestal\Trofeo\license.txt" />
+    <None Include="Assets\Examples\Shaders\GetAdditionalLightsDiffuse.hlsl" />
+    <None Include="Assets\3D\FiveSenses\Salon de clases\Items\Cup AZUL\license.txt" />
+    <None Include="Assets\3D\StarCode\assets\Centro de mando\Textures\set-de-elementos-futuristicos-de-infografia-de-estilo-holografico (2)\Fonts.txt" />
+    <None Include="Assets\3D\FiveSenses\Salon de clases\Items\Hoja de papel\license.txt" />
+    <None Include="Assets\3D\StarCode\assets\Centro de mando\Textures\set-de-elementos-futuristicos-de-infografia-de-estilo-holografico (3)\License free.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
+    <None Include="Assets\3D\30.At School\Salon de clases\license.txt" />
+    <None Include="Assets\3D\30.At School\Area central\license.txt" />
+    <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+    <None Include="Assets\3D\StarCode\assets\Laboratorio Beta\Npcs\Orbe\license.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\3D\FiveSenses\Salon de clases\Items\Tiza Rosa\license.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
+    <None Include="Assets\3D\StarCode\assets\Centro de mando\Textures\coleccion-plana-elementos-infografia-degradados\License premium.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -355,35 +430,8 @@
     <Reference Include="UnityEditor.UnityConnectModule">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.21f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEditor.Graphs">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.21f1\Editor\Data\Managed\UnityEditor.Graphs.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.WebGL.Extensions">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.21f1\Editor\Data\PlaybackEngines\WebGLSupport\UnityEditor.WebGL.Extensions.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.Android.Extensions">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.21f1\Editor\Data\PlaybackEngines\AndroidPlayer\UnityEditor.Android.Extensions.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.iOS.Extensions">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.21f1\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.WindowsStandalone.Extensions">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.21f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.YamlDotNet">
-      <HintPath>Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.Burst.Cecil.Mdb">
       <HintPath>Library\PackageCache\com.unity.burst@1.8.2\Unity.Burst.CodeGen\Unity.Burst.Cecil.Mdb.dll</HintPath>
-    </Reference>
-    <Reference Include="MonoCecilApiAllowlistAnalyzer">
-      <HintPath>Library\PackageCache\io.spatial.unitysdk@1.71.0\Editor\Scripts\CSScripting\MonoCecilApiAllowlistAnalyzer.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.TextureAssets">
-      <HintPath>Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.IonicZip">
-      <HintPath>Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Pdb">
       <HintPath>Library\PackageCache\com.unity.burst@1.8.2\Unity.Burst.CodeGen\Unity.Burst.Cecil.Pdb.dll</HintPath>
@@ -778,17 +826,149 @@
     <Reference Include="System.Xml.Serialization">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.21f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
     </Reference>
-    <Reference Include="SpatialSys.UnitySDK">
-      <HintPath>Library\ScriptAssemblies\SpatialSys.UnitySDK.dll</HintPath>
+    <Reference Include="Unity.VisualScripting.Flow.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VSCode.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="SimpleJSONSim">
+      <HintPath>Library\ScriptAssemblies\SimpleJSONSim.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Universal.Shaders">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Universal.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="PPv2URPConverters">
+      <HintPath>Library\ScriptAssemblies\PPv2URPConverters.dll</HintPath>
+    </Reference>
+    <Reference Include="SpatialSys.UnitySDK.EditorSimulation">
+      <HintPath>Library\ScriptAssemblies\SpatialSys.UnitySDK.EditorSimulation.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualStudio.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Addressables">
+      <HintPath>Library\ScriptAssemblies\Unity.Addressables.dll</HintPath>
+    </Reference>
+    <Reference Include="CsvLib">
+      <HintPath>Library\ScriptAssemblies\CsvLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Timeline">
+      <HintPath>Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Core.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.VisualScripting.State.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Burst.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Searcher.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Searcher.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="SpatialSys.UnitySDK.VisualScripting">
+      <HintPath>Library\ScriptAssemblies\SpatialSys.UnitySDK.VisualScripting.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ResourceManager">
+      <HintPath>Library\ScriptAssemblies\Unity.ResourceManager.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Flow">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Rider.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="SpatialSys.UnitySDK.Editor">
+      <HintPath>Library\ScriptAssemblies\SpatialSys.UnitySDK.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Core">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.EditorCoroutines.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Mathematics">
+      <HintPath>Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ShaderGraph.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Burst">
+      <HintPath>Library\ScriptAssemblies\Unity.Burst.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Universal.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Shared.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="EditorRestClient">
+      <HintPath>Library\ScriptAssemblies\EditorRestClient.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Timeline.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.AI.Navigation">
+      <HintPath>Library\ScriptAssemblies\Unity.AI.Navigation.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Mathematics.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.AI.Navigation.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.AI.Navigation.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ScriptableBuildPipeline">
+      <HintPath>Library\ScriptAssemblies\Unity.ScriptableBuildPipeline.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Addressables.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Addressables.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ScriptableBuildPipeline.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.ScriptableBuildPipeline.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="CSharpPromise">
+      <HintPath>Library\ScriptAssemblies\CSharpPromise.dll</HintPath>
+    </Reference>
+    <Reference Include="SpatialSys.UnitySDK">
+      <HintPath>Library\ScriptAssemblies\SpatialSys.UnitySDK.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.State">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
